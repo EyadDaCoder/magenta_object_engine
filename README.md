@@ -14,4 +14,5 @@ b-1.75 : Custom 1D collision detection
 pr-1 : Polishing
 
 r1.00 : First stable release
+
 r2.00 : AABB Collision detection
