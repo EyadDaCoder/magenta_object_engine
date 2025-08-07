@@ -16,3 +16,13 @@ pr-1 : Polishing
 r1.00 : First stable release
 
 r2.00 : AABB Collision detection
+
+--------------------------------------
+{
+name:"Player",
+miccel:"5",
+position:[400,400],
+data:["rectangle", 10, 10, 0, "fill"]
+}
+
+Above is an example dictionary input to add a new object. Simple right?
